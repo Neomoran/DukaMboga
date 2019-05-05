@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "carrots",
+        "price": 70.0,
+        "image": { "fields": { "file": { "url": "../imgs/carrots.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "peppers",
+        "price": 85.0,
+        "image": { "fields": { "file": { "url": "../imgs/peppers.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "cabbage",
+        "price": 80.0,
+        "image": { "fields": { "file": { "url": "../imgs/cabbage.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "cauliflower",
+        "price": 150.0,
+        "image": { "fields": { "file": { "url": "../imgs/cauliflower.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "tomatoes",
+        "price": 60.0,
+        "image": { "fields": { "file": { "url": "../imgs/tomatoes.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "avocados",
+        "price": 90.0,
+        "image": { "fields": { "file": { "url": "../imgs/avocados.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "red onions",
+        "price": 60.0,
+        "image": { "fields": { "file": { "url": "../imgs/redonions.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "zucchini",
+        "price": 110.0,
+        "image": { "fields": { "file": { "url": "../imgs/zucchini.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Beans",
+        "price": 60.0,
+        "image": { "fields": { "file": { "url": "../imgs/beans.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Brocolli",
+        "price": 130.0,
+        "image": { "fields": { "file": { "url": "../imgs/brocolli.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Red hot chillies",
+        "price": 75.0,
+        "image": { "fields": { "file": { "url": "../imgs/chillies.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Green hot chillies",
+        "price": 75.0,
+        "image": {
+          "fields": { "file": { "url": "../imgs/greenchillies.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Irish potatoes",
+        "price": 65.0,
+        "image": {
+          "fields": { "file": { "url": "../imgs/potatoes.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Pumpkin",
+        "price": 95.0,
+        "image": {
+          "fields": { "file": { "url": "../imgs/pumpkin.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Water Melon",
+        "price": 100.0,
+        "image": {
+          "fields": { "file": { "url": "../imgs/watermelon.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Peas/Minji",
+        "price": 80.0,
+        "image": {
+          "fields": { "file": { "url": "../imgs/peas.jpg" } }
+        }
+      }
+    }
+  ]
+}

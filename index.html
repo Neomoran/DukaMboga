@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>DukaMboga</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar">
+      <div class="navCenter">
+        <!-- Font awesome bars -->
+        <span class="navIcon">
+          <i class="fas fa-bars"></i>
+        </span>
+        <!-- logo -->
+        <span>Duka<img src="imgs/logo.svg" alt="storeLogo" />Mboga</span>
+        <div class="cartBtn">
+          <span class="navIcon">
+            <i class="fas fa-cart-plus"></i>
+          </span>
+          <div class="cartItems">0</div>
+        </div>
+      </div>
+    </nav>
+    <!-- End of navbar -->
+
+    <!-- Hero -->
+    <header class="hero">
+      <div class="banner">
+        <marquee
+          ><h2 class="bannerTitle">
+            DukaMboga Groceries
+          </h2></marquee
+        >
+        <a href="#products"><button class="bannerBtn">Buy Now</button></a>
+      </div>
+    </header>
+    <!-- End of Hero -->
+
+    <!-- Products -->
+    <section class="products" id="products">
+      <div class="sectionTitle">
+        <h2>Our Products</h2>
+      </div>
+      <div class="productsCenter"></div>
+    </section>
+    <!-- End of products -->
+    <!-- cart -->
+    <div class="cartOverlay">
+      <div class="cart">
+        <span class="closeCart">
+          <i class="fas fa-window-close"></i>
+        </span>
+        <h2>your bag</h2>
+        <div class="cartContent">
+          <!-- cartItem -->
+
+          <!-- End of cartItem -->
+        </div>
+        <div class="cartFooter">
+          <h3>Total Cost :Kes <span class="cartTotal">0</span></h3>
+          <button class="clearCart bannerBtn">Empty Bag</button>
+        </div>
+      </div>
+    </div>
+    <!-- End of cart -->
+    <script src="js/main.js"></script>
+    <script src="js/fontawesome-all.min.js"></script>
+  </body>
+</html>
